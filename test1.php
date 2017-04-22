@@ -6,7 +6,7 @@ header("content-type:text/html;charset=utf-8");
  * Date: 2017/3/27
  * Time: 18:21
  */
-
+echo"你好";
 ?>
 <!DOCTYPE html>
 <html lang="en">
